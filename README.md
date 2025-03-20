@@ -38,7 +38,7 @@ This project is an interactive Power BI dashboard designed to analyze the wine q
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/neharaju27/Grape-Chemistry-Project/blob/main/Dashboard.png)
 
 
 ## 🚀 Getting Started
