@@ -1,6 +1,6 @@
 # 🍷 Grape Chemistry: Analyzing the Key Factors in Wine Quality
 
-
+https://github.com/neharaju27/Grape-Chemistry-Project/blob/main/Project%20Logo.webp
 
 ## 📌 Overview
 
