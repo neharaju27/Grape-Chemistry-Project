@@ -36,8 +36,6 @@ This project is an interactive Power BI dashboard designed to analyze the wine q
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
 ![Dashboard Preview](https://github.com/neharaju27/Grape-Chemistry-Project/blob/main/Dashboard.png)
 
 
@@ -47,7 +45,7 @@ This project is an interactive Power BI dashboard designed to analyze the wine q
 
 Ensure you have the following installed:
 
-- **Power BI Desktop** – To open and explore the dashboard.
+- **Microsoft Power BI Desktop** – To open and explore the dashboard.
 - **Python 3.x** – For running data preprocessing scripts.
 - **Jupyter Notebook** – To execute Python scripts.
 - **SQL Database (MySQL/PostgreSQL/SQLite)** – To run SQL queries.
