@@ -18,7 +18,6 @@ This project is an interactive Power BI dashboard designed to analyze the wine q
 
 - **Slicers and Filters**: Users can filter by wine type, quality score, or specific attributes for detailed analysis.
 - **Hover Tooltips**: Provides additional details on data points when hovering over visualizations.
-- **Drill-through Pages**: Allows in-depth exploration of specific aspects like acidity levels, sugar impact, or alcohol concentration.
 - **Custom Theme & Styling**: Designed with  colors to create an elegant and intuitive interface.
 
 ### 📈 Data Processing
